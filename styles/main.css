@@ -37,8 +37,10 @@ body {
 }
 
 .content {
-    width: 100% auto;
-    height: 100% auto;
+    width: 80%; /* Adjust width as needed */
+    max-width: 1200px; /* Set a maximum width */
+    height: 80%; /* Adjust height as needed */
+    max-height: 80%; /* Set a maximum height */
 }
 
 #universe {
